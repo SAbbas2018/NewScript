@@ -1,7 +1,7 @@
 import requests
 
-#global apikey for using weather api
-apikey = '512bc4e1c263f4c268067dd26b707ac7'
+#global apikey for using weather api, add your api key here
+apikey = '' 
 
 def show_weather(current_user):
     """
